@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "963690181330",
+    "firebase_url": "https://automate-42bdc.firebaseio.com",
+    "project_id": "automate-42bdc",
+    "storage_bucket": "automate-42bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963690181330:android:d3a5c722390373e8",
+        "android_client_info": {
+          "package_name": "com.firebaseapp.rummansadiq.postapproval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963690181330-ulobqrvu3h3kr956opngmvhe25qep9rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-eVjk1rQBNywO5cFyY2MeJPLNRCINbyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
